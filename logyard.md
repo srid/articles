@@ -1,6 +1,6 @@
-% Logyard architecture
-%
-% April 18, 2013
+# Logyard architecture
+
+*April 18, 2013*
 
 *This was originally posted in
  [ActiveState blog](http://www.activestate.com/blog/2013/04/logyard-why-and-how-stackatos-logging-system)
