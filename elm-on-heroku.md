@@ -1,6 +1,6 @@
-% Elm on Heroku
-%
-% June 14, 2015
+# Elm on Heroku
+
+*June 14, 2015*
 
 ## tl;dr
 
